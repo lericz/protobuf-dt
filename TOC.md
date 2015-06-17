@@ -1,0 +1,17 @@
+  * [Home](Home.md)
+  * Features
+    * [Syntax highlighting](SyntaxHighlighting.md)
+    * [Content-assist](ContentAssist.md)
+    * [Numeric tag generation](NumericTagGeneration.md)
+    * [Outline View](OutlineView.md)
+    * ["Open Declaration" (hyperlinking) support](OpenDeclaration.md)
+    * [Content-assist for built-in/custom options](OptionContentAssist.md)
+    * [Javadoc-like documentation](JavadocLikeDocumentation.md)
+    * [Integration with protoc](IntegrationWithProtoc.md)
+    * [Automatic trailing whitespace removal](RemoveTrailingWhitespace.md)
+    * [Spell checking](SpellChecking.md)
+  * Configuration
+    * [Import paths](ImportPaths.md)
+  * [Releases](Releases.md)
+  * [Installing](Installing.md)
+  * [Getting the source code](GettingSource.md)
